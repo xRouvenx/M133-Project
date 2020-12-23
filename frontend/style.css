@@ -1,0 +1,13 @@
+body {
+    width: 30%;
+}
+
+input{
+    margin: 5px;
+    width: 43%;
+}
+
+.leftbound{
+    float: left;
+    width: 43%;
+}
